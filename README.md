@@ -1,6 +1,17 @@
-
 # A dice game to interact between multiple clients with server using socket programming
 
+Project Hierarchy
+client-server
+    |
+    ---- client.c
+    |
+    ---- server.c
+    |
+    ---- README.md
+    |
+    ---- question.pdf
+    |
+    ---- LISCENSE
 server.c: Demonstrats the use of server while creating a simple client server game
 Server have the following functionalities:
     - accepts two clients for a connection
